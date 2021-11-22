@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PeteOlsen3
+- 👀 I’m interested in Jhipster, Java, Angular, Typescript, Full Stack Development
+- 🌱 I’m currently learning GCode
+- 💞️ I’m looking to collaborate on disruptive projects
